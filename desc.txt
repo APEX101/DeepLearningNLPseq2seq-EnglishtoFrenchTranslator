@@ -1,0 +1,3 @@
+using stacked Lstms
+
+seq 2 seq (enocder decoder model)
