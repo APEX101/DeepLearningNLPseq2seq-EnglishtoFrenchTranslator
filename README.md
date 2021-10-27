@@ -1,7 +1,7 @@
 
 # EnglishtoFrenchTranslator-RNN,NLP,seq2seq
 
-![](demo.jpg)
+![OUPUT Example](demo.JPG)
 
 
 ## 📝 Overview
